@@ -8,7 +8,7 @@ Make sure that you've got sudo priviliges!
 B) create a 'bin' catalouge in '~/.local/
 type "nano ~/.bashrc"
 Go to the last line of the file and write
-'export PATH=$PATH:/home/youruser/.local/bin/'
+"export PATH=$PATH:/home/youruser/.local/bin/"
 change 'youruser' tp your user name on Linux.
 move the sapt file to '~/.local/bin/' with
 'move sapt ~/.local/bin/'
