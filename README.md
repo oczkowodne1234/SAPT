@@ -21,4 +21,3 @@ CONGRATULATIONS ! YOU'VE GOT SAPT ON OUR PC
 ===============================================================
 Requierments
 OS: Debian or Ubuntu based PC
-
