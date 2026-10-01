@@ -17,7 +17,7 @@ int main() {
         cout << "5. osupgrade\n";
         cout << "0. exit\n";
         cout << "Choice: ";
-        cout << "\n=== Source at: https://github.com/oczkowodne1234/SAPT ===\n";
+        cout << "\n=== Source at: https://github.com/oczkowodne1234/SAPT ===";
 
         cin >> choice;
 
