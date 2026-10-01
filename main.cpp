@@ -16,9 +16,8 @@ int main() {
         cout << "4. upgrade\n";
         cout << "5. osupgrade\n";
         cout << "0. exit\n";
-        cout << "Choice: ";
-        cout << "\n=== Source at: https://github.com/oczkowodne1234/SAPT ===";
-
+        cout << "\n=== Source at: https://github.com/oczkowodne1234/SAPT ==="<<endl;
+	cout << "Your choice: ";
         cin >> choice;
 
         if (choice == 0) break;
