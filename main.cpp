@@ -9,7 +9,7 @@ int main() {
     string pkg;
 
     while (true) {
-        cout << "\n=== SAPT MENU ===\n";
+        cout << "\n=== Simple Package Manager (SAPT) MENU ===\n";
         cout << "1. install\n";
         cout << "2. remove\n";
         cout << "3. update\n";
@@ -17,6 +17,7 @@ int main() {
         cout << "5. osupgrade\n";
         cout << "0. exit\n";
         cout << "Choice: ";
+        cout << "\n=== Source at: https://github.com/oczkowodne1234/SAPT ===\n";
 
         cin >> choice;
 
